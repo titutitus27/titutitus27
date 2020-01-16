@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "712174282735",
+    "firebase_url": "https://fast-gate-265114.firebaseio.com",
+    "project_id": "fast-gate-265114",
+    "storage_bucket": "fast-gate-265114.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712174282735:android:cdd753e2ef2ec5d23f781a",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.mlkit.automl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712174282735-v7e36vj7b415o64kk6cl1p1i50utors0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUumLyLX4aEHZWGMrE9VJeNjqNSvu1_FQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712174282735-v7e36vj7b415o64kk6cl1p1i50utors0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
